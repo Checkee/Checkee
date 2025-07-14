@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Checkee 👋</h1>haaa
+<h1 align="center">Hi there, I'm Checkee 👋</h1>haaaaaa
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Web+UI+Enthusiast;React+Lover;Clean+Code+Advocate&center=true&width=450&height=30&duration=2500" alt="Typing SVG" />
